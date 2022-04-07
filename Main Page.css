@@ -1,9 +1,15 @@
 
 /* Navigation CSS */
+
+#nav_section {
+    background-color: bisque;
+}
+
 li.navigation {
     display: inline-flex;
     padding: 25px;
 }
+
 ul.navigation {
     text-align: center;
 }
